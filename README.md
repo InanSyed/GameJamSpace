@@ -17,3 +17,6 @@ Features:
 - Different backgrounds depending on the part of the game you are on
 - Trash falls from random positions
 - Writing is uneven so that it can give off the mood of the game
+
+***THIS WAS MADE BY INAN SYED 
+   DISCORD: sjwin#6339***
