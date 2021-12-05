@@ -1,3 +1,5 @@
+***USES PYGAME***
+
 Your world is being attacked by Aliens because of all the pollution is space.
 The Aliens are throwing meteors, satelites, and much more your job is to stop the objects from hitting earth.
 You have a basket and have to catch the trash using it, if you let the trash hit earth 3 times, the world dies
